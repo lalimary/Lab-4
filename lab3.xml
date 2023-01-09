@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="lab3.xsl"?>
+<admin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="lab3.xsd">
+ <library>
+ <b1>
+  <name> harry potter: The philosophers stone</name>
+  <author> Jk rowling</author>
+  <price> 2000</price>
+  <pages> 300</pages>
+  <genre> Fantasy and adventure</genre>
+  <publisher>Bloomsbury</publisher>
+  <rating>5</rating>
+  <date> 26-06-97 </date>
+ </b1>
+
+<b1>
+  <name>A better india: A better world</name>
+  <author> Narayana murthy</author>
+  <price> 3000</price>
+  <pages> 320</pages>
+  <genre> Philosophy</genre>
+  <publisher>India penguin</publisher>
+  <rating>4.5</rating>
+  <date> 21-04-2009 </date>
+ </b1>
+ 
+ <b1>
+ <name> A tale of two cities</name>
+  <author> Charles dickens</author>
+  <price> 5000</price>
+  <pages> 300</pages>
+  <genre> love</genre>
+  <publisher>Weekly serial</publisher>
+  <rating>3</rating>
+  <date> 11-1859 </date>
+ </b1>
+</library>
+
+ <student>
+ <s1>
+  <name>Ranjana c</name>
+  <regno>2247251</regno>
+  <class>MCA</class>
+  <native>Bellary</native>
+  <date>12-12-2001</date>
+  <membership>yes</membership>
+  <college>christ</college>
+</s1>
+
+<s1>
+  <name>Lalitha Mary F</name>
+  <regno>2247248</regno>
+  <class>MCA</class>
+  <native>Chikballapur</native>
+  <date>28-09-2001</date>
+  <membership>yes</membership>
+  <college>christ</college>
+</s1>
+
+<s1>
+  <name>Prerana Udupa</name>
+  <regno>2247250</regno>
+  <class>MCA</class>
+  <native>Mangalore</native>
+  <date>4-05-2000</date>
+  <membership>no</membership>
+  <college>christ</college>
+</s1>
+</student>
+</admin>
+  
